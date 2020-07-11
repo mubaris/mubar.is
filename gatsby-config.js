@@ -28,6 +28,10 @@ module.exports = {
     ],
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: { trackingId: 'UA-93985002-1' },
+    },
     `babel-preset-gatsby`,
     `gatsby-plugin-react-helmet`,
     {
