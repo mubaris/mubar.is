@@ -23,3 +23,15 @@ For me, Audiobook format doesn't work on non-fiction. I tried listening to audio
 A Non-fiction book is a comprehensive study of a concept, except Memoirs. It requires your attention, mind, and concentration at the same time. When I'm reading it, I'm borrowing the mind of the author. And I plan to make the most out of it. Here's how I do it, **I take notes**.
 
 Whenever I read something important, I highlight it. Next step is to collect them all in one place. Every weekend I spent some time to move all the highlighted blocks to [Notion](https://notion.so). Along with it, I write down my own thoughts. At the end of the book, I separate them. Book quotes go to one page, and my own notes go to a different one. I also keep the original note. When I have free time, I like to read these notes. It feels like reading the book all over again. Hopefully you can use a similar approach to reading non-fiction books.
+
+<div id="mc_embed_signup">
+<form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+    <label for="mce-EMAIL">Subscribe for more Awesome Posts!</label>
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f9e9a4985cce81e89169df2bf_3654da5463" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
