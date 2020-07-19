@@ -23,6 +23,8 @@ const Post = ({
   const previousLabel = previousPost && previousPost.frontmatter.title
   const nextPath = nextPost && nextPost.frontmatter.path
   const nextLabel = nextPost && nextPost.frontmatter.title
+  const pathSplit = path.split('/')
+  const isPost = pathSplit[1] === 'posts'
 
   return (
     <div className={style.post}>
@@ -60,12 +62,14 @@ const Post = ({
         ) : (
           <>
             <div dangerouslySetInnerHTML={{ __html: html }} />
-            <Navigation
-              previousPath={previousPath}
-              previousLabel={previousLabel}
-              nextPath={nextPath}
-              nextLabel={nextLabel}
-            />
+            {isPost && (
+              <Navigation
+                previousPath={previousPath}
+                previousLabel={previousLabel}
+                nextPath={nextPath}
+                nextLabel={nextLabel}
+              />
+            )}
           </>
         )}
       </div>

@@ -14,7 +14,7 @@ twimg: https://i.imgur.com/DcVjzt8.jpg
 excerpt: "Part 2 of DataViz Mastery. Build your own Word Clouds from text data."
 ---
 
-This is part 2 of DataViz Mastery. In part 1, we learned how to create Treemaps using Python - [Read it here](https://mubaris.com/2017-11-05/dataviz-mastery-part1). In this post we will learn how to create Word Clouds using Python. So, let's get started.
+This is part 2 of DataViz Mastery. In part 1, we learned how to create Treemaps using Python - [Read it here](/posts/dataviz-treemaps/). In this post we will learn how to create Word Clouds using Python. So, let's get started.
 
 ## Word Cloud
 

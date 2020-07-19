@@ -18,9 +18,13 @@ module.exports = {
     logoText: 'mubaris',
     defaultTheme: 'dark',
     postsPerPage: 5,
-    showMenuItems: 2,
+    showMenuItems: 3,
     menuMoreText: 'Show more',
     mainMenu: [
+      {
+        title: 'Blog',
+        path: '/blog',
+      },
       {
         title: 'About',
         path: '/about',
@@ -75,11 +79,19 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-catch-links`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          {
+            resolve: 'gatsby-remark-external-links',
+            options: {
+              target: '_blank',
+              rel: 'noopener noreferrer',
+            },
+          },
           {
             resolve: 'gatsby-remark-embed-video',
             options: {
