@@ -22,7 +22,7 @@ const SEO = ({ description, lang, meta, keywords, title, image }) => {
   } = data.site.siteMetadata
   const metaTitle = title || siteTitle
   const metaDescription = description || siteDescription
-  const metaImage = image || '/cover/mubaris.com.png'
+  const metaImage = `https://mubaris.com${  image || '/cover/mubaris.com.png'}`
 
   return (
     <Helmet
