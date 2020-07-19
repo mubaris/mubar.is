@@ -3,6 +3,7 @@ title:  TensorFlow 101
 date: "2017-10-21T12:00:00.000Z"
 path: "/posts/tensorflow/"
 category: "Python"
+image: "/cover/tf.png"
 author: "Mubaris NK"
 equation: true
 tags: 
@@ -12,7 +13,6 @@ tags:
   - Tensorflow
 header-img: files/images/post11.jpg
 twimg: https://i.imgur.com/xIp6NSz.jpg
-image: https://i.imgur.com/xIp6NSz.jpg
 excerpt: "This post introduces the very basics of Tensorflow, a machine learning library developed by Google"
 ---
 

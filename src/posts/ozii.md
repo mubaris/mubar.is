@@ -2,6 +2,7 @@
 title:  Project Ozii - Generating PulseGraphs from Text
 date: "2017-10-04T12:00:00.000Z"
 path: "/posts/ozii/"
+image: "/cover/ozii.png"
 category: "Python"
 author: "Mubaris NK"
 equation: true

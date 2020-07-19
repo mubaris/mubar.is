@@ -2,6 +2,7 @@
 title:  DataViz Mastery Part 2 - Word Clouds
 date: "2017-11-11T12:00:00.000Z"
 path: "/posts/dataviz-wordcloud/"
+image: "/cover/wordcloud.png"
 category: "Python"
 author: "Mubaris NK"
 tags: 
@@ -10,7 +11,6 @@ tags:
   - Tutorial
 header-img: files/images/post14.jpg
 twimg: https://i.imgur.com/DcVjzt8.jpg
-image: https://i.imgur.com/DcVjzt8.jpg
 excerpt: "Part 2 of DataViz Mastery. Build your own Word Clouds from text data."
 ---
 

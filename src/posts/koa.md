@@ -1,6 +1,7 @@
 ---
 date: "2018-09-29T12:00:00.000Z"
 title:  Introduction to Koa.js
+image: "/cover/koa.png"
 draft: false
 path: "/posts/koa-basics/"
 author: "Mubaris NK"
@@ -13,7 +14,6 @@ tags:
 excerpt: "Learn Koa.js by building a Sentiment Analysis API"
 header-img: files/images/post16.jpg
 twimg: https://i.imgur.com/gJXT4iu.png
-image: https://i.imgur.com/gJXT4iu.png
 ---
 
 [Koa.js](https://koajs.com/) is a minimal Node.js web framework developed by the team behind [Express.js](https://expressjs.com/). Koa uses async functions, this gives you advantage over callback functions. By default Koa does not come with any middlewares. That makes Koa very minimal and elegant. In this post we'll get started with building an API using Koa.js

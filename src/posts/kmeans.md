@@ -2,6 +2,7 @@
 title:  K-Means Clustering in Python
 date: "2017-10-01T12:00:00.000Z"
 path: "/posts/kmeans-clustering/"
+image: "/cover/kmeans.png"
 category: "Python"
 author: "Mubaris NK"
 equation: true

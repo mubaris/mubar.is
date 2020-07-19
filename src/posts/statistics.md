@@ -2,6 +2,7 @@
 title: "Introduction to Statistics using NumPy"
 date: "2017-09-09T12:00:00.000Z"
 path: "/posts/statistics/"
+image: "/cover/stats.png"
 author: "Mubaris NK"
 category: "Python"
 tags: 

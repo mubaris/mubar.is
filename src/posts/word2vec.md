@@ -3,6 +3,7 @@ date: "2017-12-14T12:00:00.000Z"
 title:  "Word Embeddings - word2vec"
 draft: false
 path: "/posts/word2vec/"
+image: "/cover/word2vec.png"
 author: "Mubaris NK"
 category: "Python"
 equation: true
@@ -14,7 +15,6 @@ tags:
 excerpt: "Learn basics of Word Embeddings. This blog post explores very commonly used word2vec."
 header-img: files/images/post15.jpg
 twimg: https://i.imgur.com/Psdvf53.png
-image: https://i.imgur.com/Psdvf53.png
 ---
 
 Translations - [Russian](http://clipartmag.com/ru-word2vec)

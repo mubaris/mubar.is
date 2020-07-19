@@ -2,6 +2,7 @@
 title:  Analyzing Movie Subtitles
 date: "2017-11-04T12:00:00.000Z"
 path: "/posts/movie-analysis/"
+image: "/cover/subtitle.png"
 author: "Mubaris NK"
 category: "Python"
 tags: 
@@ -10,7 +11,6 @@ tags:
   - NLP
 header-img: files/images/post12.jpg
 twimg: https://i.imgur.com/etpqMur.png
-image: https://i.imgur.com/etpqMur.png
 excerpt: "Understand movie behaviour from sentiment analysis of movie subtitles"
 ---
 

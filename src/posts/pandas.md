@@ -2,6 +2,7 @@
 title:  Python Data Analysis with pandas
 date: "2017-09-25T12:00:00.000Z"
 path: "/posts/pandas/"
+image: "/cover/pda.png"
 category: "Python"
 author: "Mubaris NK"
 tags: 

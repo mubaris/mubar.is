@@ -8,7 +8,7 @@ import Post from '../components/post'
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const {
-    frontmatter: { title, date, path, author, coverImage, excerpt, tags },
+    frontmatter: { title, date, path, author, coverImage, excerpt, tags, image },
     excerpt: autoExcerpt,
     id,
     html,
@@ -17,7 +17,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <SEO title={title} description={excerpt || autoExcerpt} />
+      <SEO title={title} description={excerpt || autoExcerpt} image={image} />
       <Post
         key={id}
         title={title}
@@ -54,6 +54,7 @@ export const pageQuery = graphql`
         author
         excerpt
         tags
+        image
         coverImage {
           childImageSharp {
             fluid(maxWidth: 800) {

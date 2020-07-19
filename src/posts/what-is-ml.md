@@ -2,6 +2,7 @@
 title:  What is Machine Learning?
 date: "2017-09-27T12:00:00.000Z"
 path: "/posts/what-is-ml/"
+image: "/cover/ml.png"
 category: "Introduction"
 author: "Mubaris NK"
 tags: 

@@ -2,6 +2,7 @@
 title:  DataViz Mastery Part 1 - Tree Maps
 date: "2017-11-05T12:00:00.000Z"
 path: "/posts/dataviz-treemaps/"
+image: "/cover/treemap.png"
 category: "Python"
 author: "Mubaris NK"
 tags: 
@@ -10,7 +11,6 @@ tags:
   - Tutorial
 header-img: files/images/post13.jpg
 twimg: https://i.imgur.com/SJwm2Kg.png
-image: https://i.imgur.com/SJwm2Kg.png
 excerpt: "Part 1 of DataViz Mastery. Build your own Tree Maps."
 ---
 

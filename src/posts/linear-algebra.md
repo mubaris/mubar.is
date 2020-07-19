@@ -2,6 +2,7 @@
 title:  Exploring Linear Algebra with Python
 date: "2017-09-25T04:00:00.000Z"
 path: "/posts/linear-algebra/"
+image: "/cover/la.png"
 author: "Mubaris NK"
 category: "Python"
 tags: 

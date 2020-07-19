@@ -2,6 +2,7 @@
 title:  Introduction to Data Visualization using Python
 date: "2017-09-26T12:00:00.000Z"
 path: "/posts/dataviz-intro/"
+image: "/cover/dataviz.png"
 category: "Python"
 author: "Mubaris NK"
 tags: 

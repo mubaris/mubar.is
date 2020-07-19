@@ -3,6 +3,7 @@ title:  "What is Data Science?"
 date: "2017-09-08T12:00:00.000Z"
 path: "/posts/data-science/"
 author: "Mubaris NK"
+image: "/cover/ds.png"
 category: "Introduction"
 tags: 
   - Introduction

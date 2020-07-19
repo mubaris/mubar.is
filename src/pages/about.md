@@ -2,6 +2,7 @@
 title: "About Me!"
 date: ""
 path: "/about"
+image: "/cover/about.png"
 ---
 
 👋 Hi, I'm Mubaris. You can call me Mubu.

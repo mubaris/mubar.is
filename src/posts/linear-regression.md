@@ -3,6 +3,7 @@ title:  Linear Regression from Scratch in Python
 date: "2017-09-28T12:00:00.000Z"
 path: "/posts/linear-regression/"
 category: "Python"
+image: "/cover/lr.png"
 author: "Mubaris NK"
 equation: true
 tags: 

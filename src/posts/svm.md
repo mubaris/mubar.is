@@ -3,6 +3,7 @@ title:  Support Vector Machines for Classification
 date: "2017-10-14T12:00:00.000Z"
 author: "Mubaris NK"
 path: "/posts/svm/"
+image: "/cover/svm.png"
 category: "Python"
 equation: true
 tags: 
