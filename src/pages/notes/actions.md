@@ -1,8 +1,6 @@
 ---
 title: "Don't Get Ahead of Yourself"
 date: 2020-07-23
-tags:
-  - Thoughts
 path: /actnow/
 author: Mubaris NK
 image: "/cover/actnow.png"
