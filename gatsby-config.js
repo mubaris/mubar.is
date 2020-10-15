@@ -42,6 +42,7 @@ module.exports = {
     },
     `babel-preset-gatsby`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-netlify`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
