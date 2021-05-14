@@ -7,10 +7,10 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Mubaris NK`,
+    title: `Mubaris`,
     description: `Everything you can imagine is real`,
-    copyrights: '© 2017-2022 Mubaris NK (@realmubaris)',
-    author: `@realmubaris`,
+    copyrights: '© 2017-2025 Mubaris',
+    author: `@0xMubaris`,
     logo: {
       src: '',
       alt: '',
@@ -28,10 +28,6 @@ module.exports = {
       {
         title: 'Thoughts',
         path: '/thoughts',
-      },
-      {
-        title: 'About',
-        path: '/about',
       },
     ],
   },
