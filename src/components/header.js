@@ -61,7 +61,7 @@ const Header = props => {
             </div>
           </Link>
           <span className={style.right}>
-            {/* <Menu
+            <Menu
               mainMenu={mainMenu}
               mainMenuItems={mainMenuItems}
               isMobileMenuVisible={isMobileMenuVisible}
@@ -70,7 +70,7 @@ const Header = props => {
               onToggleMobileMenu={onToggleMobileMenu}
               onToggleSubMenu={onToggleSubMenu}
               onChangeTheme={onChangeTheme}
-            /> */}
+            />
           </span>
         </div>
       </header>

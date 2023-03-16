@@ -60,59 +60,6 @@ const Menu = ({
 
   return (
     <>
-      <div className={style.mobileMenuContainer}>
-        <>
-          {isMobileMenuVisible ? (
-            <>
-              {/* eslint-enable */}
-              <ul className={style.mobileMenu}>
-                <MainMenu mainMenu={mainMenu} isMobileMenu />
-              </ul>
-              {/* eslint-disable */}
-              <div
-                onClick={onToggleMobileMenu}
-                className={style.mobileMenuOverlay}
-              />
-            </>
-          ) : null}
-          <button
-            className={style.menuTrigger}
-            style={{ color: 'inherit' }}
-            onClick={onToggleMobileMenu}
-            type="button"
-            aria-label="Menu"
-          >
-            <Icon style={{ cursor: 'pointer' }} size={24} d={menuIcon} />
-          </button>
-        </>
-      </div>
-      <div className={style.desktopMenuContainer}>
-        <ul className={style.menu}>
-          <MainMenu mainMenu={mainMenu} mainMenuItems={mainMenuItems} />
-          {isSubMenu ? (
-            <>
-              <button
-                className={style.subMenuTrigger}
-                onClick={onToggleSubMenu}
-                type="button"
-                aria-label="Menu"
-              >
-                {menuMoreText || 'Menu'}{' '}
-                <span className={style.menuArrow}>></span>
-              </button>
-              {isSubMenuVisible ? (
-                <ul className={style.subMenu}>
-                  <SubMenu
-                    mainMenu={mainMenu}
-                    mainMenuItems={mainMenuItems}
-                    onToggleSubMenu={onToggleSubMenu}
-                  />
-                </ul>
-              ) : null}
-            </>
-          ) : null}
-        </ul>
-      </div>
       <button
         className={style.themeToggle}
         onClick={onChangeTheme}
